@@ -1,2 +1,2 @@
-# Interner-CV
+# PersonalSite (Demo)
 Персональная страничка (резюме)
